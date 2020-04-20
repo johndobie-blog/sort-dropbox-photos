@@ -1,9 +1,11 @@
 #### Blog Link.
-https://johndobie.com/
+https://johndobie.com/blog/organising-dropbox-photos-by-year-and-month-with-go
+See the blog for full details on this code.
 
 #### Organise Dropbox Photos
-By default dropbox dumps all your new photo uploads into a single directory.  
+By default dropbox dumps all your new photo uploads into a single directory.
 This makes it really hard to look at them when you have hundreds.
+
 ![dropbox](files/dropbox_files.PNG)
 
 #### Organise your photos
