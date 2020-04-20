@@ -28,6 +28,8 @@ func main() {
 }
 
 func HandleUploads(path string) {
+
+	fmt.Printf("Looking for files in [%s]\n", uploadDir)
 	matches, _ := filepath.Glob(uploadDir + "/*.*")
 	for _, path := range matches {
 		HandleSingleFile(path)
