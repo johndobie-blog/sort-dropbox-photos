@@ -1,13 +1,14 @@
-##### Organise Dropbox Photos
+#### Blog Link.
+https://johndobie.com/
 
+#### Organise Dropbox Photos
 By default dropbox dumps all your new photo uploads into a single directory.  
-
 This makes it really hard to look at them when you have hundreds.
 ![dropbox](files/dropbox_files.PNG)
 
-It does however timestamp them.
+#### Organise your photos
+This program will organise your photos by year and month instead.
 
-This program will organise them instead by year and month.
 ![folder_by_year](files/folder_by_year.PNG)
 
 ![folder_by_month](files/folder_by_month.PNG)
